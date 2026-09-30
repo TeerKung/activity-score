@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Scoreboard mark</title>
+  <desc id="desc">Four score cells with a coral fourth cell</desc>
+  <rect width="128" height="128" fill="#F7F3EA"/>
+  <path d="M26 31h25v25H26zM55 31h25v25H55zM26 60h25v25H26z" fill="#202325"/>
+  <path d="M55 60h25v25H55z" fill="#E85D4A"/>
+  <path d="M22 93h62" fill="none" stroke="#1F5EFF" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="96" cy="92" r="7" fill="#1F5EFF"/>
+</svg>
